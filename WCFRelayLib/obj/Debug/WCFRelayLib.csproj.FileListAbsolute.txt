@@ -1,0 +1,6 @@
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayLib\bin\Debug\WCFRelayLib.dll.config
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayLib\bin\Debug\WCFRelayLib.dll
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayLib\bin\Debug\WCFRelayLib.pdb
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayLib\obj\Debug\WCFRelayLib.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayLib\obj\Debug\WCFRelayLib.dll
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayLib\obj\Debug\WCFRelayLib.pdb

@@ -1,0 +1,10 @@
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayClient\bin\Debug\WCFRelayClient.exe.config
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayClient\bin\Debug\WCFRelayClient.exe
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayClient\bin\Debug\WCFRelayClient.pdb
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayClient\bin\Debug\Microsoft.ServiceBus.dll
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayClient\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayClient\bin\Debug\Microsoft.ServiceBus.xml
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayClient\obj\Debug\WCFRelayClient.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayClient\obj\Debug\WCFRelayClient.exe
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayClient\obj\Debug\WCFRelayClient.pdb
+D:\AKKI_DEV\RND\AZURE\AzureServiceBus-Relay\WCFRelayClient\obj\Debug\WCFRelayClient.csprojResolveAssemblyReference.cache
